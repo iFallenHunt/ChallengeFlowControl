@@ -1,4 +1,4 @@
-[🇧🇷️]()
+[🇧🇷️](https://github.com/iFallenHunt/ChallengeFlowControl/blob/main/README-PT.md)
 
 # Counting Program with Custom Exception
 
@@ -75,4 +75,4 @@ License
 
 This project is licensed under the MIT License.
 
-See the [LICENSE]() file for details.
+See the [LICENSE](https://github.com/iFallenHunt/ChallengeFlowControl/blob/main/LICENSE) file for details.
