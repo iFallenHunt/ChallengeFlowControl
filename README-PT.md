@@ -73,4 +73,4 @@ Licença
 
 Este projeto está licenciado sob a licença MIT.
 
-Veja o arquivo [LICENSE]() para detalhes.
+Veja o arquivo [LICENSE](https://github.com/iFallenHunt/ChallengeFlowControl/blob/main/LICENSE) para detalhes.
